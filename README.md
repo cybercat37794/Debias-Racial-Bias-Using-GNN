@@ -55,6 +55,7 @@ recidivism-gnn/
 ├── requirements.txt
 
 ## Data Preparation
+https://github.com/arman-sakif/Mitigating-Racial-Bias-in-NLU-with-GNN/tree/main
 Load the train and test datasets from CSV files.
 
 Encode categorical variables if not already encoded.
