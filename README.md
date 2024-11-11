@@ -17,7 +17,7 @@ This project demonstrates the use of Graph Neural Networks (GNN) for predicting 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/recidivism-gnn.git
+   git clone https://github.com/cybercat37794/Debias-Racial-Bias-Using-GNN.git
    cd recidivism-gnn
 
 python -m venv env
@@ -53,6 +53,7 @@ recidivism-gnn/
 │   ├── train.py
 ├── README.md
 ├── requirements.txt
+
 ## Data Preparation
 Load the train and test datasets from CSV files.
 
